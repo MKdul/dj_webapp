@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+.heading
+{
+    font-family: 'Inter', sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    width: 89%;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_speed
+{
+    float: left;
+margin-top: 40px;
+}
+
+.div_speed img
+{
+    width: 350px;
+    border-radius: 175px;
+}
+
+
+.div_volume
+{
+    float: right;
+margin-top: 40px;
+}
+
+.div_volume img
+{
+    width: 350px;
+    border-radius: 175px;
+}
+
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+.play_button
+{
+    font-size: 25px;
+    margin: 15px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    width: 130px;
+}
+
+canvas 
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 100px;
+}
